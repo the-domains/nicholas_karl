@@ -1,0 +1,28 @@
+name: nicholas_karl
+favicon: null
+layout_spectrum: 0.4449925816152245
+typography_spectrum: 0.4709909970406443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8518601942341775
+  lightness: 0.028643697733059525
+  saturation: 0.6270317742601037
+  rhythmicContrast: 0.3483057657722384
+purpose: []
